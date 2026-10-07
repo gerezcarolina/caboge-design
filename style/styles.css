@@ -1,0 +1,62 @@
+/* Familia tipografica */
+/* font-family: "Clarity City", sans-serif */
+
+/* Estilos generales */
+body {
+font-family: "Clarity City", sans-serif;
+line-height: 1.6;}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, h2 {
+    color: #1d3746;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+/* Color de titulos */
+
+
+/* Estilos de header */
+header, footer{
+    color:#1d3746   ;
+    background-color:#f6e8af  ;
+}
+
+header a {
+    font-size: 1.8rem;
+}
+
+/* Estilos de main */
+main {
+    color: #345b73;
+    background-color:#f6e8af ;
+}
+
+.tarjeta-index {
+    background-color:#d9adad  ;
+}
+
+.tarjeta-index h3 {
+    font-size:  1.5rem;
+}
+
+.tarjeta-index p {
+font-size: 1.2rem;
+}
+
+/* Footer */
+
+footer p {
+    font-size: 1.3rem;
+    font-weight: bold;
+}

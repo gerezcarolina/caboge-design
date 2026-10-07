@@ -1,0 +1,5 @@
+Paleta de colores
+azul oscuro: #1d3746 
+azul medio: #345b73 
+amarillo: #f6e8af
+rosa: #d9adad 
